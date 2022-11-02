@@ -11,8 +11,8 @@ enum Dia {
     }
     public static void main(String[] args) {
 
-    Dia DiaDeHoy = Dia.MIERCOLES;
-    switch (DiaDeHoy) {
+    Dia diaDeHoy = Dia.MIERCOLES;
+    switch (diaDeHoy) {
         case LUNES: System.out.println("Los Lunes son lo más");
             break;
         case MARTES: System.out.println("Los Martes no te embarques");
