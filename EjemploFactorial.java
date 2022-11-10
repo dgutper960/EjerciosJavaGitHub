@@ -2,16 +2,16 @@ public class EjemploFactorial {
     //Dado un num N calcular su factorial (multiplicado por sus num precedentes)
     public static void main(String[] args) {
 
-        int num=3;
-        int result=1;
+        int n=3;
+        int factorial=1;
     
 
-        System.out.println("Calcular factorial del numero: " + num);
+        System.out.println("Calcular factorial del numero: " + n);
 
-        for(int i=num; i>=result; i--){
-            result=num*i;
+        for(int i=1; i<=n; i++) {
+            factorial = factorial *i;
         }
-        System.out.println("El factorial de " + num + " es: " + result);
+        System.out.println("El factorial de " + n + " es: " + factorial);
 
     }
     
