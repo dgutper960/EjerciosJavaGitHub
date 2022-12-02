@@ -4,7 +4,9 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/AnyoBisiesto" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/CalculadoraBasica" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EjerciciosClaseUD3" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ExamenUD2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UD3" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/UD_3" vcs="Git" />
   </component>
 </project>
